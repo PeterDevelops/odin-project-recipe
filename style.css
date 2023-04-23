@@ -1,19 +1,11 @@
-.head {
-    max-width: 30%;
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
     text-align: center;
-    margin: auto;
-    display: block;
+    text-decoration: underline;
+    background-color: rgb(0, 255, 174);
 }
-h1 {
-    text-align: center;
-}
-h2 {
-    padding-left: 2%;
-}
-p {
-    padding-left: 2%;
-}
-img {
-    max-width: 30%;
-    padding: .1cm;
+body li {
+    padding-top: 5px;
 }
