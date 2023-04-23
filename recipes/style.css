@@ -1,0 +1,19 @@
+.head {
+    max-width: 30%;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    padding-left: 2%;
+}
+p {
+    padding-left: 2%;
+}
+img {
+    max-width: 30%;
+    padding: .1cm;
+}
