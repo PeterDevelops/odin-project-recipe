@@ -1,10 +1,12 @@
+*{
+    background-color: bisque;
+}
 body{
     font-family:Arial, Helvetica, sans-serif;
 }
 h1{
     text-align: center;
     text-decoration: underline;
-    background-color: rgb(0, 255, 174);
 }
 body li {
     padding-top: 5px;
