@@ -4,8 +4,9 @@
     margin: auto;
     display: block;
 }
-h1 {
+body h1 {
     text-align: center;
+    text-decoration: underline;
 }
 h2 {
     padding-left: 2%;
