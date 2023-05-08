@@ -7,13 +7,15 @@
     text-align: center;
     margin: auto;
     display: block;
+
 }
 body h1 {
     text-align: center;
     text-decoration: underline;
 }
-h2 {
+body h2 {
     padding-left: 2%;
+    text-decoration: underline;
 }
 p {
     padding-left: 2%;
