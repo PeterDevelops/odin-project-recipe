@@ -1,13 +1,16 @@
-*{
+* {
     background-color: antiquewhite;
 }
-body{
+body {
     font-family: Arial, Helvetica, sans-serif;
 }
-h1{
+h1 {
     text-align: center;
     text-decoration: underline;
 }
 body li {
     padding-top: 5px;
+}
+ul {
+    
 }
